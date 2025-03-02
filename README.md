@@ -19,3 +19,18 @@
    pip install -r requirements.txt
 
 3. Запустите файл research.ipynb (например в vs code)
+
+
+
+Примеры:  
+YoloV11 nano:  
+![image](https://github.com/user-attachments/assets/507e0da5-8bc8-42df-8b59-a20bd4f477fd)  
+
+
+
+YoloV11 extra large:  
+![image](https://github.com/user-attachments/assets/fb0e8e30-5e07-457b-862e-e36545c90503)  
+
+
+DETR:  
+![image](https://github.com/user-attachments/assets/8f9982a5-8e45-4cb9-a7d2-3612810ebb76)  
