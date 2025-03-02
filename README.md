@@ -4,6 +4,7 @@
 Необходимо было сделать детекцию людей на видео.  
 Для этого были использованы архитектуры: YOLOv11, DETR  
 Исследование по тестовому заданию находится в файле research.ipynb  
+Результаты можно посмотреть по [ссылке](https://drive.google.com/drive/folders/1-awPOWRcAUUU3ZHBDeZMKEjBgfvFN-Wx?usp=sharing)  
 
 ## Установка
 
