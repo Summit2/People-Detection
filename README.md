@@ -22,7 +22,8 @@
 
 
 
-Примеры:  
+### Примеры:  
+
 YoloV11 nano:  
 ![image](https://github.com/user-attachments/assets/0c0e8202-fd50-48f8-9632-0a0568de7936)  
 
