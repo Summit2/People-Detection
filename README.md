@@ -8,7 +8,7 @@
 
 1. Cклонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository.git
+   https://github.com/Summit2/People-Detection
    
 2. Создайте виртуальное окружение и установите зависимости
    ```bash
