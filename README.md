@@ -24,13 +24,14 @@
 
 Примеры:  
 YoloV11 nano:  
-![image](https://github.com/user-attachments/assets/507e0da5-8bc8-42df-8b59-a20bd4f477fd)  
+![image](https://github.com/user-attachments/assets/0c0e8202-fd50-48f8-9632-0a0568de7936)  
 
 
 
 YoloV11 extra large:  
-![image](https://github.com/user-attachments/assets/fb0e8e30-5e07-457b-862e-e36545c90503)  
+![image](https://github.com/user-attachments/assets/15f070f0-c5c2-42a8-9f44-d7b83776ce1a)  
 
 
 DETR:  
-![image](https://github.com/user-attachments/assets/8f9982a5-8e45-4cb9-a7d2-3612810ebb76)  
+![image](https://github.com/user-attachments/assets/cac2be8f-1037-4c89-bfe4-36f44c259e41)  
+  
